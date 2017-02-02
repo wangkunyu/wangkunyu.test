@@ -1,13 +1,13 @@
 
-title: WebJeda
+title: Kunyu's Space
 description: "WebJeda is a company oriented towards building modern websites and apps. It also provides smart hosting solutions. Contact us for modern, fast and responsive websites"
-url: "http://webjeda.com"
-author: sharath dt
+url: "https://wangkunyu.github.io/"
+author: Kunyu Wang
 
 
 author-image: /img/user.png
 
-baseurl: "/webjeda-sidebar"  # the subpath of your site, e.g. /blog
+baseurl: ""  # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
@@ -21,10 +21,10 @@ accent-color: '#F62459'     #those apostrophes are important
 #social
 facebook: https://www.facebook.com/
 twitter: https://twitter.com/
-twitter-handle: '@sharathdt'     #for twitter button on author section #those apostrophes are important
+twitter-handle: ''     #for twitter button on author section #those apostrophes are important
 github: https://github.com/
 youtube: https://www.youtube.com/channel/
-email: mailto:hello@webjeda.com
+email: wangkunyu95@qq.com
 feedburner-subscribe: https://feedburner.google.com/fb/a/mailverify?uri=webjedablog&amp;loc=en_US
 
 #Other
